@@ -1,0 +1,9 @@
+History:-
+
+Origins in C: C++ evolved from the C programming language, which was developed by Dennis Ritchie at Bell Labs in the early 1970s. C was widely used for system programming and became very popular due to its efficiency and flexibility.
+
+C with Classes: In the late 1970s, Bjarne Stroustrup began working on what he called "C with Classes," which aimed to add support for object-oriented programming concepts to C. This effort eventually led to the creation of C++.
+
+C++ Official Release: The first official release of C++ came in 1985. It introduced features such as classes, derived classes, constructors, and destructors. The language continued to evolve over the years with the addition of new features and improvements.
+
+Standardization: C++ was standardized by the International Organization for Standardization (ISO) in 1998, with the release of the C++98 standard. Subsequent revisions were made, leading to the development of the C++03, C++11, C++14, C++17, and C++20 standards. These standards introduced significant enhancements to the language, including improved support for templates, concurrency, and more.

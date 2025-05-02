@@ -1,0 +1,17 @@
+Flowcharts are graphical representations of algorithms or processes. They use standardized symbols to illustrate the flow of control within a program or system. In C++ programming, flowcharts are often used to plan and visualize the logical structure of code before implementation. Here's a theoretical overview of flowcharts in the context of C++ programming:
+
+Basic Symbols:
+
+Start/End Symbol: Denotes the beginning or end of the flowchart.
+
+Input/Output Symbol: Represents input from the user or output to the user.
+
+Process Symbol: Represents processing or computation.
+
+Decision Symbol: Represents a decision point in the flowchart, typically based on a condition. It has two or more possible paths (yes/no or true/false).
+
+Connector Symbol: Connects different parts of the flowchart.
+
+Subroutine Symbol: Represents a call to a subroutine or function.
+
+Flow Lines: Arrows that indicate the flow of control from one symbol to another.

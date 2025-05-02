@@ -1,0 +1,47 @@
+Basics:-
+C++ is a high-level programming language developed by Bjarne Stroustrup at Bell Labs in the early 1980s. It was designed as an extension of the C programming language with additional features such as classes and objects, which support object-oriented programming (OOP) paradigm. Here's a brief overview of its history and some basics:
+
+C++ Overview:
+
+C++ is a general-purpose programming language developed by Bjarne Stroustrup as an extension of the C programming language. It supports procedural, object-oriented, and generic programming paradigms, making it highly versatile.
+
+Syntax:
+
+C++ syntax is similar to C, but with additional features for object-oriented programming. It uses semicolons to end statements and curly braces to define blocks of code.
+
+Variables and Data Types:
+
+C++ supports various data types such as integers (int), floating-point numbers (float, double), characters (char), booleans (bool), etc. Variables must be declared with a data type before they can be used.
+
+Functions:
+
+Functions in C++ are similar to those in C. They have a return type, a name, parameters (optional), and a body. Functions allow code reusability and modularization.
+
+Classes and Objects:
+
+C++ supports classes, which are user-defined data types that encapsulate data and functions. Objects are instances of classes, and they allow for the implementation of object-oriented programming concepts such as abstraction, encapsulation, inheritance, and polymorphism.
+
+Inheritance:
+
+Inheritance is a key feature of C++ that allows a class to inherit properties and behaviors from another class. This promotes code reuse and facilitates the creation of hierarchies of classes.
+
+Polymorphism:
+
+Polymorphism in C++ allows objects to be treated as instances of their parent class, enabling dynamic method binding. It includes concepts like function overloading and function overriding.
+
+Templates:
+
+C++ templates allow generic programming, where functions and classes can operate with generic types. Templates provide a powerful mechanism for writing reusable code that works with any data type.
+
+Standard Template Library (STL):
+
+C++ provides a rich library called the Standard Template Library (STL), which includes data structures (like vectors, arrays, stacks, queues, etc.) and algorithms (like sorting, searching, etc.) for common programming tasks.
+
+Memory Management:
+
+C++ provides manual memory management through features like new and delete operators. However, it also supports automatic memory management through smart pointers and containers like std::vector, std::array, etc.
+
+Control Structures:
+C++ supports control structures such as if-else statements, loops (for, while, do-while), switch-case statements, etc., for conditional and iterative execution of code.
+
+These are the fundamental concepts of C++ that form the basis of programming in this language. Understanding these concepts is essential for becoming proficient in C++ development.

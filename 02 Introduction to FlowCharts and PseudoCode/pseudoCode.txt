@@ -1,0 +1,15 @@
+Certainly! Here's a stepwise breakdown of an algorithm to compute the sum of two numbers:
+
+Start: Begin the algorithm.
+
+Input: Prompt the user to input two numbers, let's call them number1 and number2.
+
+Add Numbers: Add number1 and number2 together to find their sum.
+
+Store Sum: Store the result of the addition in a variable, let's call it sum.
+
+Output Sum: Output the value of sum to the user, indicating the sum of the two numbers.
+
+End: End the algorithm.
+
+This stepwise breakdown outlines the logical flow of the algorithm for computing the sum of two numbers. It involves taking input, performing addition, storing the result, and then outputting the sum.
