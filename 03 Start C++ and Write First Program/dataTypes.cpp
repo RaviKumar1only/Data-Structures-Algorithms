@@ -36,4 +36,6 @@ int main()
     cout<<b2<<endl;
     cout<<b3<<endl;
     cout<<b4<<endl;
+
+    return 0;
 }

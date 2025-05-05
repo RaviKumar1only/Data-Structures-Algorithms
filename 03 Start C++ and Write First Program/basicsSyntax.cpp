@@ -20,4 +20,6 @@ int main()
     cout<<5<<endl;
     cout<<5+4<<endl;
     cout <<"5+3"<<endl;
+
+    return 0;
 };
